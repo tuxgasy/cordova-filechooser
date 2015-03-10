@@ -1,4 +1,4 @@
-package com.megster.cordova;
+package fr.tuxgasy.cordova;
 
 import android.app.Activity;
 import android.content.Intent;
